@@ -114,29 +114,6 @@ learning: [Machine Learning, Advanced React Patterns, DevOps]
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-Ramadane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ramadane&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Ramadane&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Ramadane&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies"/>
-</div>
 
 ---
 
