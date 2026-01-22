@@ -26,7 +26,7 @@ location: Lyon, France
 learning: [Machine Learning, Advanced React Patterns, DevOps]
 ```
 
-**Passionate Developer** with a strong foundation in both web technologies and data science. I love creating seamless user experiences and building powerful backends. Currently exploring the intersection of **Web Development** and **Artificial Intelligence**.
+**Passionate Developer** with a strong foundation in both web technologies, AI Engineer and data science. I love creating seamless user experiences and building powerful backends. Currently exploring the intersection of **Web Development** and **Artificial Intelligence**.
 
 🎯 **What I do:**
 - Develop modern web applications (Next.js, React, Angular)
