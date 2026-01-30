@@ -124,7 +124,7 @@ learning: [Machine Learning, Advanced React Patterns, DevOps]
 I'm always open to discussing new projects, creative ideas or opportunities to be part of your visions.
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhammadou-ramadane-diallo-32a36b2b0)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ton-portfolio-url.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ramadane.vercel.app/)
 
 ---
 
