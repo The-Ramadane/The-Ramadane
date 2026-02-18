@@ -31,7 +31,7 @@ learning: [Machine Learning, Advanced React Patterns, DevOps]
 🎯 **What I do:**
 - Develop modern web applications (Next.js, React, Angular)
 - Build robust and scalable APIs (Spring Boot, FastAPI)
-- Analyze data and build ML models (Python, TensorFlow, Scikit-learn)
+- Analyze data and build ML models (Python, pytorch, Scikit-learn)
 - Deploy and manage cloud infrastructure (Firebase, Docker)
 
 ---
