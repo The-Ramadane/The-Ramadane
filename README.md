@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Science+Enthusiast;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Enginner;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
 
 **🌍 Based in Lyon, France | 🎯 Passionate about building robust applications and exploring AI**
 
